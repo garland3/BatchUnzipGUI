@@ -1,0 +1,9 @@
+C:\Users\Anthony G\Git\BatchUniz\BatchUniz\bin\Debug\BatchUniz.exe.config
+C:\Users\Anthony G\Git\BatchUniz\BatchUniz\bin\Debug\BatchUniz.exe
+C:\Users\Anthony G\Git\BatchUniz\BatchUniz\bin\Debug\BatchUniz.pdb
+C:\Users\Anthony G\Git\BatchUniz\BatchUniz\obj\Debug\BatchUniz.csprojResolveAssemblyReference.cache
+C:\Users\Anthony G\Git\BatchUniz\BatchUniz\obj\Debug\BatchUniz.Form1.resources
+C:\Users\Anthony G\Git\BatchUniz\BatchUniz\obj\Debug\BatchUniz.Properties.Resources.resources
+C:\Users\Anthony G\Git\BatchUniz\BatchUniz\obj\Debug\BatchUniz.csproj.GenerateResource.Cache
+C:\Users\Anthony G\Git\BatchUniz\BatchUniz\obj\Debug\BatchUniz.exe
+C:\Users\Anthony G\Git\BatchUniz\BatchUniz\obj\Debug\BatchUniz.pdb
